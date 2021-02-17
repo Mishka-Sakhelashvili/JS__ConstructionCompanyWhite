@@ -1,14 +1,12 @@
 ### Hi there 👋
 <hr />
 
-<img height="400px" src="https://github.com/Mishka-Sakhelashvili/JS__Count/blob/master/Gif.gif"/>
+<img height="400px" src="https://github.com/Mishka-Sakhelashvili/JS__ConstructionCompanyWhite/blob/master/4ycp8b.gif"/>
 
 <hr />
-<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JS__Count/">  View Demo  </a></h1>
+<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JS__ConstructionCompanyWhite/">  View Demo  </a></h1>
 
-<hr />
-<h2><i>Desc: </i></h2>
-<p> Count Down </p>
+
 
 <hr />
 <h2><i>Used Technologies: </i></h2>
